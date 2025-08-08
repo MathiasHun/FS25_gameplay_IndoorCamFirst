@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<l10n>
+   <elements>
+      <e k="indoorcam_section_title" v="Beltéri kamera először"/>
+      <e k="indoorcam_cabview_short" v="Belső nézet"/>
+      <e k="indoorcam_cabview_long" v="Válaszd ki, mikor aktiválódjon a beltéri kamera."/>
+      <e k="indoorcam_cabviewMode_1" v="Soha"/>
+      <e k="indoorcam_cabviewMode_2" v="Először"/>
+      <e k="indoorcam_cabviewMode_3" v="Mindig"/>
+   </elements>
+</l10n>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<l10n>
+   <elements>
+      <e k="indoorcam_section_title" v="Caméra intérieure prioritaire"/>
+      <e k="indoorcam_cabview_short" v="Vue intérieure"/>
+      <e k="indoorcam_cabview_long" v="Définit la caméra intérieure par défaut lors de l'entrée dans un véhicule."/>
+      <e k="indoorcam_cabviewMode_1" v="Jamais"/>
+      <e k="indoorcam_cabviewMode_2" v="Une seule fois"/>
+      <e k="indoorcam_cabviewMode_3" v="Toujours"/>
+   </elements>
+</l10n>

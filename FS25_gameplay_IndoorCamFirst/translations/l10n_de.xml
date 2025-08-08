@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<l10n>
+   <elements>
+      <e k="indoorcam_section_title" v="Innenkamera zuerst"/>
+      <e k="indoorcam_cabview_short" v="Innenansicht"/>
+      <e k="indoorcam_cabview_long" v="Setzt die Innenkamera beim Einsteigen in ein Fahrzeug als Standardansicht."/>
+      <e k="indoorcam_cabviewMode_1" v="Nie"/>
+      <e k="indoorcam_cabviewMode_2" v="Nur beim ersten Mal"/>
+      <e k="indoorcam_cabviewMode_3" v="Immer"/>
+   </elements>
+</l10n>
