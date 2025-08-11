@@ -37,7 +37,7 @@ A well-documented bug report helps me find and fix issues faster.
 
 Thanks for helping improve the mod!🚜
 </br></br>
-<!--## <p dir="auto"><strong><a href="https://farmsim.bltfm.hu/infusions/bltfmhu_downloads_center/downloads.php?cat_id=4&dlc_id=8">Download the latest developer version</a></strong> (the file FS25_gameplay_IndoorCamFirst.zip).</p>
+## <p dir="auto"><strong><a href="https://farmsim.bltfm.hu/infusions/bltfmhu_downloads_center/downloads.php?cat_id=4&dlc_id=8">Download the latest developer version</a></strong> (the file FS25_gameplay_IndoorCamFirst.zip).</p>
 
 ## Changelog 1.0.0.0:
 
