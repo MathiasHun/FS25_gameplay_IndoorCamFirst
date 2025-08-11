@@ -1,6 +1,6 @@
 # FS25_gameplay_IndoorCamFirst
 
-![image](https://github.com/MathiasHun/FS25_gameplay_IndoorCamFirst/blob/main/icon_indoorCamFirst.png)
+![image](https://github.com/MathiasHun/FS25_gameplay_IndoorCamFirst/blob/main/icon_indoorCamFirst256.png)
 
 <div style="display: inline-flex; align-items: center;">
   <a href="https://www.youtube.com/watch?v=_uauu_G0jaA" target="_blank" style="display: inline-block;">
