@@ -3,7 +3,7 @@
 ![image](https://github.com/MathiasHun/FS25_gameplay_IndoorCamFirst/blob/main/icon_indoorCamFirst256.png)
 
 <div style="display: inline-flex; align-items: center;">
-  <a href="https://www.youtube.com/watch?v=_uauu_G0jaA" target="_blank" style="display: inline-block;">
+  <a href="https://www.youtube.com/watch?v=wm2aDVulFc4" target="_blank" style="display: inline-block;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_play_button_icon_%282013%E2%80%932017%29.svg" 
          style="width: 100px; height: auto; margin-left: 5px;">
   </a>
