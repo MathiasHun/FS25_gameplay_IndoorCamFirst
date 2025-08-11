@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<l10n>
+   <elements>
+      <e k="indoorcam_section_title" v="Prima telecamera interna"/>
+      <e k="indoorcam_cabview_short" v="Vista interna"/>
+      <e k="indoorcam_cabview_long" v="Imposta la telecamera interna come predefinita quando si entra in un veicolo"/>
+      <e k="indoorcam_cabviewMode_1" v="Mai"/>
+      <e k="indoorcam_cabviewMode_2" v="Solo prima"/>
+      <e k="indoorcam_cabviewMode_3" v="Sempre"/>
+   </elements>
+</l10n>
